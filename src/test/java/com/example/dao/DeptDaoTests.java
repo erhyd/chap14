@@ -12,7 +12,7 @@ import com.example.domain.Dept;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DeotDaoTests {
+public class DeptDaoTests {
 
 	@Autowired
 	DeptDao dao;
