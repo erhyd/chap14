@@ -60,7 +60,7 @@ public class MemberTests {
 		pstmt.setInt(1, 30);
 		pstmt.setString(2, "yyy");
 		
-//		Date regdate = format.parse("1999/10/10");
+//		Date date = format.parse("1999/10/10");
 //		java.sql.Date regdate =new java.sql.Date(date.getTime());
 //		pstmt.setDate(3, regdate);
 		
